@@ -1,1 +1,1 @@
-console.log("Selamat datang di JakoStore!");
+console.log("JakoStore Premium Loaded");
